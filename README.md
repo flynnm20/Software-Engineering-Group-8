@@ -4,6 +4,6 @@ This project consists of Senior Freshman Year students enrolled in [CS2013 - Pro
 Our Group consists of:
 * [Eoin Dowling](https://github.com/avieor) - JS Computer Science. [dowlineo@tcd.ie](mailto:dowlineo@tcd.ie)
 * [Brandon Dooley](https://github.com/dooleyb1)
-* [Matthew Flynn](https://github.com/)
+* [Matthew Flynn](https://github.com/) - SF Computer Science. [flynnm20@tcd.ie]
 * [Joey Curran](https://github.com/)
 * [Ruairi Gielty](https://github.com/)
